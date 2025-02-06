@@ -9,7 +9,7 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
+├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/King_srm>Aʙʜɪ Sʀᴍ</a>
 ├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Deendayal_dhakad">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/Deendayal_dhakad>[Deendayal_Dhakad]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+yVlsKw--Mm1iZWI9">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href=https://t.me/King_srm>[Aʙʜɪ Sʀᴍ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -360,7 +360,7 @@ BOT WORKING PROPERLY"""
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/dreamcinezone'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/King_srm'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -455,9 +455,9 @@ BOT WORKING PROPERLY"""
 
 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑷𝒂𝒚𝒎𝒆𝒏𝒕 𝑴𝒆𝒕𝒉𝒐𝒅.....
 
-𝑼𝑷𝑰 𝑰𝑫 👉 <code>{}</code>
+𝑼𝑷𝑰 𝑰𝑫 👉 <code>rahulsrm525@okicici</code>
 
-𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='{}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a> 
+𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='https://envs.sh/ygZ.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a> 
 
 𝑷𝒂𝒚 𝑨𝒎𝒐𝒖𝒏𝒕 𝑨𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑷𝒍𝒂𝒏 & 𝑬𝒏𝒋𝒐𝒚 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑴𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑
 
