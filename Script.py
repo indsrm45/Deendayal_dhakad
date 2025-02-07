@@ -271,7 +271,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+yVlsKw--Mm1iZWI9">{file_name}</a></b>\n\n<b>⚜️ Request By : <a href=https://t.me/srm_ind_request>[Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/srmmovies_link">{file_name}</a></b>\n\n<b>⚜️ Request By : <a href=https://t.me/srm_ind_request>[Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ]</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
